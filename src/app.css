@@ -1,5 +1,7 @@
 body {
 	background-color: hsl(0, 0%, 90%);
+	margin: 0 auto;
 	text-align: center;
 	padding: 1em;
+	max-width: 800px;
 }
